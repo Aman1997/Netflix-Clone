@@ -430,6 +430,17 @@ p{
  }
 
  @media (max-width: 575.98px) {
+    .mainBackground img{
+        left: 20px;
+        height: 20px;
+        width: 100px;
+    }
+    .mainBackground .btn{
+        top: 15px;
+        right: 20px;
+        font-weight: 400;
+        font-size: 0.6em;
+    }
     .mainBackground .mainCenterText h1{
         font-weight: 400;
         font-size: 1.6em;
