@@ -309,7 +309,7 @@ p{
 
 /* Responsive */
 
-@media (max-width: 767.98px) { 
+@media (min-width: 767.98px) { 
     .mainBackground .mainCenterText h1{
         font-weight: 500;
         font-size: 1.8em;
