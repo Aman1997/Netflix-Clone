@@ -1,3 +1,3 @@
 # Netflix-Landing-Page
 
-Live preview :-https://netflix-landing-page.web.app/
+Live preview :-https://netflix-landing-project.web.app/
